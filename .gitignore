@@ -1,4 +1,4 @@
 node_modules
 /dist
-.envfirebase-adminsdk.json
-firebase-adminsdk.json
+# .envfirebase-adminsdk.json
+# firebase-adminsdk.json
